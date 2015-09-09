@@ -1,0 +1,22 @@
+---
+title: "HappyHour"
+author: "Mickey Harding"
+date: "September 8, 2015"
+output: html_document
+---
+
+# I
+## want to 
+### make a series
+#### of headers
+
+
+```{r, echo = FALSE}
+install.packages("devtools")
+install_github("rstudio/DT")
+```
+
+
+
+
+
