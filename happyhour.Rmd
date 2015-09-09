@@ -11,12 +11,12 @@ output: html_document
 #### of headers
 
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, eval = FALSE}
 install.packages("devtools")
 install_github("rstudio/DT")
 ```
 
-
+[Happy Hour Table](HappyHourTable.html)
 
 
 

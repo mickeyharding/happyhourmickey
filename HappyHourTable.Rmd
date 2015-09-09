@@ -1,0 +1,14 @@
+---
+title: "HappyHourTable"
+author: "Mickey Harding"
+date: "September 8, 2015"
+output: html_document
+---
+
+Below is a table of the happy hours for Harrisonburg, VA
+
+```{r, eval = FALSE}
+v <- c(4, 2, 2, 1)
+d <- c(2, 2, 1, 1)
+data.frame(c(v, d))
+```
